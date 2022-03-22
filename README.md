@@ -1,2 +1,2 @@
 # NetmikoScriptUbnt
-Script basico para equipamento Ubiquiti
+Script basico para Antena Ubiquiti
